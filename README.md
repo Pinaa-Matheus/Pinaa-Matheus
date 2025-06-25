@@ -8,7 +8,10 @@
 📊 Entusiasta da área de **dados**, gosto de explorar como a tecnologia pode transformar informações em soluções inteligentes.  
 🚀 Estou sempre em busca de novos aprendizados, desafios e oportunidades para aplicar meus conhecimentos em projetos práticos.
 
-
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=white)
+<!-- !![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)-->
+<!-- ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-00000F.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 
 <h2 align="center">⚡ Status ⚡</h2>
