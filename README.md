@@ -1,36 +1,33 @@
-<h1 align="">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-Vindo+ao+meu+GitHub!+👋" />
-</h1>
+# 💻 Matheus Pina
 
-## 👋 Olá! Me chamo Matheus Pina
+🎓 Estudante de Engenharia da Computação – SENAC  
+📊 Jovem Aprendiz em Business Intelligence (BI) – Alpargatas  
+🖥️ Técnico em Informática  
+🚀 Interessado em Dados, Tecnologia, Segurança da Informação e Desenvolvimento
 
-🎓 Sou estudante de **Engenharia da Computação** pelo **SENAC** e também **técnico em Informática**.  
-📊 Entusiasta da área de **dados**, gosto de explorar como a tecnologia pode transformar informações em soluções inteligentes.  
-🚀 Estou sempre em busca de novos aprendizados, desafios e oportunidades para aplicar meus conhecimentos em projetos práticos.
+## 👨‍💻 Sobre mim
 
-<h2 align="center">⚡ Tecnologia ⚡</h2>
+Sou estudante de tecnologia com formação técnica em Informática e atualmente curso Engenharia da Computação no SENAC. 
+Atuo como Jovem Aprendiz na área de Business Intelligence, desenvolvendo habilidades em análise de dados, organização de informações e suporte à tomada de decisões.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,mysql" />
-  </a>
-</p>
+Tenho interesse em:
 
-<h2 align="center">🖥️ Projetos 🖥️</h2>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pinaa-Matheus&repo=Projeto_CarHub&theme=react)](https://github.com/Pinaa-Matheus/Projeto_CarHub)
+- 📊 Análise de Dados e BI  
+- 💻 Desenvolvimento de Software  
+- 🔐 Segurança da Informação  
+- 📈 Soluções Tecnológicas e Inovação
 
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="center">⚡ Tecnologias ⚡</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Pinaa-Matheus&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
-    </td>
-    <td>
-      <img width="325" src="https://streak-stats.demolab.com?user=Pinaa-Matheus&theme=react&background=000000&border=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=FFFFFF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div style="display: inline_block"><br>
+    
+![My Skills](https://skillicons.dev/icons?i=python,sqlite,pandas,MySql)
+</div>
+
+
+## 📂 Projetos
+
+
+
 
