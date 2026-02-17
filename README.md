@@ -18,7 +18,7 @@ Tenho interesse em:
 - 📈 Soluções Tecnológicas e Inovação
 
 
-<h2 align="center">⚡ Tecnologias ⚡</h2>
+## ⚡Tecnologias
 
 <div style="display: inline_block"><br>
     
