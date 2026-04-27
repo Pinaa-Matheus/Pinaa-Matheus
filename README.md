@@ -1,8 +1,10 @@
 # 💻 Matheus Pina
-
 🎓 Estudante de Engenharia da Computação – SENAC | Ciência de Dados - UFMS
-📊 Jovem Aprendiz em Business Intelligence (BI) – Alpargatas  
+
+📊 Jovem Aprendiz em Business Intelligence (BI) – Alpargatas 
+
 🖥️ Técnico em Informática  
+
 🚀 Interessado em Dados, Tecnologia, Segurança da Informação e Desenvolvimento
 
 ## 👨‍💻 Sobre mim
