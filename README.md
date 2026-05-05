@@ -29,8 +29,9 @@ Tenho interesse em:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pinaa-Matheus&show_icons=true&theme=dark)
+![Status do GitHub](https://streak-stats.demolab.com/?user=Pinaa-Matheus&theme=radical)
 
 ## 📂 Projetos
 ### 1. Projeto CarHub
